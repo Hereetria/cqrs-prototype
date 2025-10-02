@@ -1,4 +1,4 @@
-# 🧭 CQRS Prototype — .NET + MediatR Implementation • (Archived)
+# 🧭 CQRS Prototype — .NET Implementation • (Archived)
 
 <br>
 
