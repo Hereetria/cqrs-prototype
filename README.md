@@ -21,7 +21,10 @@ It uses the **MediatR library** to handle request/response interactions and sepa
 <br>
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
 ---
 
